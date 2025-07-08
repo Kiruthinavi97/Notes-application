@@ -4,6 +4,7 @@ This is a notes management application using React JS that allows users to creat
 This app focuses on implementing dynamic UI rendering and structured note handling.
 
 **Description:**
+
 Provide a user interface to create new notes with a title and description.
 
 Display all notes in a clean card-based layout.
@@ -21,6 +22,7 @@ Provide options to archive notes instead of deleting them permanently.
 Implement a trash section where deleted notes can be recovered or permanently removed.
 
 **User Features:**
+
 Create, view, edit, and delete notes.
 
 Search notes by keywords and filter by tags.
@@ -30,6 +32,7 @@ Pin and archive notes for better organization.
 Move notes to trash and restore or delete permanently.
 
 **Techstacks needs to be used:**
+
 React JS
 
 TailwindCSS for styling
